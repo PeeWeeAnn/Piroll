@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grid-row",
+				"grid-row-start"
+			],
+			[
+				"grid-co",
+				"grid-column-start"
+			],
+			[
+				"gra",
+				"gainsboro"
+			],
+			[
+				"blue",
+				"skyblue"
+			],
+			[
+				"grid-tem",
+				"grid-template-rows"
+			],
+			[
+				"g",
+				"ghostwhite"
+			],
+			[
+				"green",
+				"seagreen"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"dark",
+				"darkgrey"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"fl",
+				"flex-end"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"spac",
+				"space-evenly"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"sp",
+				"space-evenly"
+			],
+			[
+				"col",
+				"column-reverse"
+			],
+			[
+				"space",
+				"space-evenly"
+			],
+			[
+				"justi",
+				"justify-items"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"just",
+				"justify-items"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"trans",
+				"transform-style"
+			],
+			[
+				"transition-",
+				"transition-property"
+			],
+			[
+				"rot",
+				"rotate3d()"
+			],
+			[
+				"lists",
+				"list-style-type"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"transition",
+				"transition-property"
+			],
+			[
+				"conten",
+				"justify-content"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"resul",
+				"result_3"
+			],
+			[
+				"filt",
+				"filterRangeInPlace"
+			],
+			[
+				"pr",
+				"primeSize"
+			],
+			[
+				"gre",
+				"dimgrey"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"teri",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"jav",
+				"Format: Javascript"
+			],
+			[
+				"e",
+				"ESLint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fort",
+				"Format: Javascript"
+			],
+			[
+				"jspre",
+				"JsPrettier: Format Code"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+			"ls",
+			"clear",
+			"npm",
+			"nom",
+			"yarn"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/stick/Documents/Frontend/new try/first.html",
+		"/C/Users/stick/Documents/Frontend/new try/style.css",
+		"/C/Users/stick/Documents/Frontend/new try/1.html",
+		"/C/Users/stick/Documents/Frontend/new try/first.js",
+		"/C/Users/stick/Desktop/1.css",
+		"/C/Users/stick/Desktop/1.html",
+		"/C/Users/stick/Pictures/Курсач/хуй",
+		"/C/Users/stick/Documents/Frontend/momomo.js",
+		"/C/Users/stick/Documents/Frontend/_bot.js",
+		"/C/Users/stick/Documents/Frontend/exercises.js",
+		"/C/Users/stick/Documents/Frontend/keys-values-entries.js",
+		"/C/Users/stick/Documents/Frontend/destructuring-assignment.js",
+		"/C/Users/stick/Downloads/empty.html",
+		"/C/Users/stick/Documents/Frontend/3. HTML and CSS and JS/index2.js",
+		"/C/Users/stick/AppData/Roaming/Sublime Text/Packages/Terminality/Terminality.sublime-settings",
+		"/C/Users/stick/Documents/Frontend/3. HTML and CSS and JS/index.js",
+		"/C/Users/stick/Documents/Frontend/3. HTML and CSS and JS/index.html",
+		"/C/Users/stick/Downloads/Telegram Desktop/index.js",
+		"/C/Users/stick/Documents/Frontend/3. HTML and CSS and JS/.eslintrc"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 41.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "piroll_1.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
